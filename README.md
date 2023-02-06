@@ -1,2 +1,2 @@
 # NeoVim configuration 
-my neoVim configuration with .lua files
+NeoVim configuration with .lua files
