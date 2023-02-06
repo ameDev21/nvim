@@ -1,0 +1,9 @@
+vim.opt.expandtab = true
+vim.opt.shiftwidth = 2
+vim.opt.softtabstop = 2
+vim.opt.number = true
+vim.opt.relativenumber = true
+vim.opt.autoindent = true
+vim.opt.wrap = false
+vim.opt.filetype = "on"
+vim.opt.filetype.plugin = "on"
